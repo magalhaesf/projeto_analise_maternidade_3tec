@@ -1,0 +1,28 @@
+Análise de Projetos Orientado a Objetos A/Poo
+
+Professor: Norberto Duran
+
+Alunas: Fernanda de Fátima Magalhães
+		Mariana Tomacheski Lara
+		Manuela Kelman Denega
+		
+			Projeto:
+	
+	- Site "Meu bebê de primeira viagem".
+	
+	- Pensado para pais e mães de primeira viagem, que precisam e querem dicas de maternidade para tornar essa nova fase da vida mais leve.
+	
+	- O site vai incluir a possibilidade de mandar fotos e comentar sobre as necessidades de cada família, incluindo um chat,
+	para facilitar o contato entre as famílias, compartilhando dicas do dia a dia, entre outros.
+	
+	- O usuário poderá se cadastrar colocando seu nome e uma biografia sobre sua família, idade do bebê, 
+	e as informações que o usuário julgar necessárias, como por exemplo, doenças crônicas, cognitivas e mentais, para facilitar no recebimento das dicas.
+	
+	- Os comentários podem ser usados para identificar semelhança entre as famílias e para troca de experiências
+	do período da maternidade, incluindo todas as fases da criança e do adolescente.
+	
+	- Fotos e comentários que possam denegrir a imagem dos usuários ou incomodar, poderão ser excluídos, através de denúncias feitas pelos próprios usuários.
+	
+	- As fotos e informações publicadas no site não podem ser salvas, incluindo print e gravação de tela, para a segurança da criança e da família.
+	O ECA, Estatuto da criança e do adolescente tem a função de proteger e de  assegurar as necessidades básicas das crianças e adolescentes. 
+	A integridade de sua imagem é um dos direitos garantidos por essa lei.
